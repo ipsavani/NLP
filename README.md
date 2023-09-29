@@ -1,5 +1,5 @@
 # NLP
-Utility code for Natural Language Processing CS 584
+Basics and Utility code for Natural Language Processing 
 
 - Text Classification : 
   - Pre-Processing.
